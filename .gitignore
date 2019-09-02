@@ -1,0 +1,10 @@
+~/*.lock
+~/packages
+~/App_Data
+~/App_Start
+~/bin
+~/Controllers
+~/Models
+~/obj
+~/Properties
+~/*.config
