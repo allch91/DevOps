@@ -1,7 +1,8 @@
 *.lock
 *.config
-
-src/packages
+*.user
+src/Client/packages
+src/Client/.vs
 src/Client/Microservices Client/App_Data
 src/Client/Microservices Client/App_Start
 src/Client/Microservices Client/bin
