@@ -1,10 +1,12 @@
-~/*.lock
-~/packages
-~/App_Data
-~/App_Start
-~/bin
-~/Controllers
-~/Models
-~/obj
-~/Properties
-~/*.config
+*.lock
+*.config
+
+src/packages
+src/Client/Microservices Client/App_Data
+src/Client/Microservices Client/App_Start
+src/Client/Microservices Client/bin
+src/Client/Microservices Client/Controllers
+src/Client/Microservices Client/Models
+src/Client/Microservices Client/obj
+src/Client/Microservices Client/Properties
+
