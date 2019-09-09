@@ -6,6 +6,7 @@
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-connect": "^5.7.0",
+    "gulp-fileindex": "^1.0.1",
     "gulp-open": "^3.0.1"
   },
   "devDependencies": {
