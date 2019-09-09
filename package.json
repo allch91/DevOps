@@ -1,0 +1,29 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "devops homework",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-open": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allch91/DevOps.git"
+  },
+  "keywords": [
+    "devops",
+    "git"
+  ],
+  "author": "abner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allch91/DevOps/issues"
+  },
+  "homepage": "https://github.com/allch91/DevOps#readme"
+}
