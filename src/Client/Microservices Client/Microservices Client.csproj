@@ -93,6 +93,8 @@
       <DependentUpon>UserInterface.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="UserRequest.cs" />
+    <Compile Include="WebApiConfig.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

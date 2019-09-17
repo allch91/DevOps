@@ -1,0 +1,33 @@
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\obj\Debug\UnitTestClient.csprojAssemblyReference.cache
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\obj\Debug\UnitTestClient.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\UnitTestClient.dll.config
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\UnitTestClient.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\UnitTestClient.pdb
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\EntityFramework.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microservices Client.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\System.Web.Http.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\System.Web.Http.WebHost.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microservices Client.pdb
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microservices Client.dll.config
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\EntityFramework.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\System.Web.Http.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\System.Web.Http.WebHost.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\es\System.Web.Http.resources.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\es\System.Net.Http.Formatting.resources.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\bin\Debug\es\System.Web.Http.WebHost.resources.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\obj\Debug\UnitTestClient.csproj.CopyComplete
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\obj\Debug\UnitTestClient.dll
+D:\Documents\GitHub\devops\src\Client\UnitTestClient\obj\Debug\UnitTestClient.pdb
